@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 
 2.  **Install the required Python package:**
     ```bash
-    pip install yt-dlp
+    pip install yt_dlp
     ```
 
 3.  **Install FFmpeg:**
