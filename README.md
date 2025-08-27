@@ -78,3 +78,7 @@ Download completed successfully! File saved in my_music
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+This project is for educational purposes only. The developers are not responsible for how users employ this tool. Downloading copyrighted material without permission may violate terms of service and copyright laws in your country.
